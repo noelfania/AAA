@@ -1,3 +1,5 @@
 function AAA() {
-    var aaa = 111;
+    let aaa = 111;
+    var bbb = 222;
+
 }
